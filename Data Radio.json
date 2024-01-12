@@ -29,33 +29,7 @@
   "type": "playlist",
   "tracks": {
     "data": [
-      {
-        "id": 1,
-        "title": "القناة الأولى",
-        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
-        "artist": { "name": "قناة عامة" },
-        "album": {
-          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha1.png"
-        }
-      },
-      {
-        "id": 2,
-        "title": "القناة الثانية",
-        "preview": "https://webradio.tda.dz/Chaine2_64K.mp3",
-        "artist": { "name": "قناة عامة" },
-        "album": {
-          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha2.png"
-        }
-      },
-      {
-        "id": 3,
-        "title": "القناة الثالثة",
-        "preview": "https://webradio.tda.dz/Chaine3_64K.mp3",
-        "artist": { "name": "قناة عامة" },
-        "album": {
-          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha3.png"
-        }
-      },
+
       {
         "title": "Radio orientale الشرقي",
         "artist": { "name": "Music orientale" },
@@ -67,7 +41,7 @@
       {
         "title": "Radio 100% مغاربة",
         "artist": { "name": "Music maghrebi" },
-        "preview": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "preview": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
         "album": {
           "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/MA/radio/magh.png"
         }
@@ -75,7 +49,7 @@
       {
         "title": "Radio tarab  الطرب",
         "artist": { "name": "Music tarab" },
-        "preview": "https://streaming2.rimradio.ma/livetarab",
+        "preview": "https://streamer.mada.ps:8201/tarab",
         "album": {
           "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/tara.png"
         }
