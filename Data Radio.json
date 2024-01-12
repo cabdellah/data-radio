@@ -31,6 +31,13 @@
     "data": [
       {
         "id": 2310997275,
+        "title": "القناة الأولى",
+        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
+        "artist": {"name": "قناة عامة"},
+        "album": {"cover": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png?itok=oDYkajoU"}
+      },
+      {
+        "id": 2310997275,
 
         "title": "Lemon (Numcha Remake)",
         "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
