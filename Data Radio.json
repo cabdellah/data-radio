@@ -35,34 +35,25 @@
         "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
         "artist": { "name": "قناة عامة" },
         "album": {
-          "cover": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png?itok=oDYkajoU"
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha1.png"
         }
       },
       {
         "id": 2,
         "title": "القناة الثانية",
-        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
+        "preview": "https://webradio.tda.dz/Chaine2_64K.mp3",
         "artist": { "name": "قناة عامة" },
         "album": {
-          "cover": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png?itok=oDYkajoU"
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha2.png"
         }
       },
       {
         "id": 3,
         "title": "القناة الثالثة",
-        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
+        "preview": "https://webradio.tda.dz/Chaine3_64K.mp3",
         "artist": { "name": "قناة عامة" },
         "album": {
-          "cover": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png?itok=oDYkajoU"
-        }
-      },
-      {
-        "id": 4,
-        "title": "القناة الرابعة",
-        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
-        "artist": { "name": "قناة عامة" },
-        "album": {
-          "cover": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png?itok=oDYkajoU"
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha3.png"
         }
       }
     ]
