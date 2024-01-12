@@ -1,0 +1,71 @@
+{
+  "id": 12231918251,
+  "title": "saranyu",
+  "description": "",
+  "duration": 2926,
+  "public": true,
+  "is_loved_track": false,
+  "collaborative": false,
+  "nb_tracks": 14,
+  "fans": 0,
+  "link": "https://www.deezer.com/playlist/12231918251",
+  "share": "https://www.deezer.com/playlist/12231918251?utm_source=deezer&utm_content=playlist-12231918251&utm_term=0_1705057014&utm_medium=web",
+  "picture": "https://api.deezer.com/playlist/12231918251/image",
+  "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d-2ae6c01a51296a7ec6d89c96a4fac32c-f9c8a75f7960cf23a7c03102d5a9ca10-669559a8eae4a3ebdf8e5a50bccc85c0/56x56-000000-80-0-0.jpg",
+  "picture_medium": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d-2ae6c01a51296a7ec6d89c96a4fac32c-f9c8a75f7960cf23a7c03102d5a9ca10-669559a8eae4a3ebdf8e5a50bccc85c0/250x250-000000-80-0-0.jpg",
+  "picture_big": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d-2ae6c01a51296a7ec6d89c96a4fac32c-f9c8a75f7960cf23a7c03102d5a9ca10-669559a8eae4a3ebdf8e5a50bccc85c0/500x500-000000-80-0-0.jpg",
+  "picture_xl": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d-2ae6c01a51296a7ec6d89c96a4fac32c-f9c8a75f7960cf23a7c03102d5a9ca10-669559a8eae4a3ebdf8e5a50bccc85c0/1000x1000-000000-80-0-0.jpg",
+  "checksum": "ce59b1c9980692f58d673f1814a9358d",
+  "tracklist": "https://api.deezer.com/playlist/12231918251/tracks",
+  "creation_date": "2024-01-06 11:48:55",
+  "md5_image": "492baba1c6acaebff79709c8d2f9a08d-2ae6c01a51296a7ec6d89c96a4fac32c-f9c8a75f7960cf23a7c03102d5a9ca10-669559a8eae4a3ebdf8e5a50bccc85c0",
+  "picture_type": "cover",
+  "creator": {
+    "id": 5783481331,
+    "name": "Saranyu Saprom",
+    "tracklist": "https://api.deezer.com/user/5783481331/flow",
+    "type": "user"
+  },
+  "type": "playlist",
+  "tracks": {
+    "data": [
+      {
+        "id": 2310997275,
+        "readable": true,
+        "title": "Lemon (Numcha Remake)",
+        "title_short": "Lemon",
+        "title_version": "(Numcha Remake)",
+        "link": "https://www.deezer.com/track/2310997275",
+        "duration": 228,
+        "rank": 31727,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "https://cdns-preview-d.dzcdn.net/stream/c-dc2b2a658f50924632b55ab17acbf6c4-2.mp3",
+        "md5_image": "492baba1c6acaebff79709c8d2f9a08d",
+        "time_add": 1704538148,
+        "artist": {
+          "id": 5846273,
+          "name": "Adoy",
+          "link": "https://www.deezer.com/artist/5846273",
+          "tracklist": "https://api.deezer.com/artist/5846273/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": 448767035,
+          "title": "us",
+          "cover": "https://api.deezer.com/album/448767035/image",
+          "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/492baba1c6acaebff79709c8d2f9a08d/1000x1000-000000-80-0-0.jpg",
+          "md5_image": "492baba1c6acaebff79709c8d2f9a08d",
+          "tracklist": "https://api.deezer.com/album/448767035/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      }
+    ],
+    "checksum": "ce59b1c9980692f58d673f1814a9358d"
+  }
+}
