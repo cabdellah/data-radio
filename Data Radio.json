@@ -55,6 +55,646 @@
         "album": {
           "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha3.png"
         }
+      },
+      {
+        "title": "Radio orientale الشرقي",
+        "artist": { "name": "Music orientale" },
+        "preview": "https://radiodzair.net:8070/orientale?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/orie.png"
+        }
+      },
+      {
+        "title": "Radio 100% مغاربة",
+        "artist": { "name": "Music maghrebi" },
+        "preview": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/MA/radio/magh.png"
+        }
+      },
+      {
+        "title": "Radio tarab  الطرب",
+        "artist": { "name": "Music tarab" },
+        "preview": "https://streaming2.rimradio.ma/livetarab",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/tara.png"
+        }
+      },
+      {
+        "title": "Radio dzair  دزاير",
+        "artist": { "name": "Music dzair" },
+        "preview": "https://radiodzair.net:8000/dzair?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/dzai.png"
+        }
+      },
+      {
+        "title": "Radio chaabi  الشعبي",
+        "artist": { "name": "Music chaabi" },
+        "preview": "https://radiodzair.net:8010/chaabia?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/chaa.png"
+        }
+      },
+      {
+        "title": "Radio aures  الشاوي",
+        "artist": { "name": "Music chaoui" },
+        "preview": "https://radiodzair.net:8050/aures?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/aure.png"
+        }
+      },
+      {
+        "title": "Radio andalos الأندلسي",
+        "artist": { "name": "Music andaloussia" },
+        "preview": "https://radiodzair.net:8020/andaloussia?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/anda.png"
+        }
+      },
+      {
+        "title": "Radio sahara  الصحراوي",
+        "artist": { "name": "Music sahraoui" },
+        "preview": "https://radiodzair.net:8040/sahara?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/saha.png"
+        }
+      },
+      {
+        "title": "Radio izuran القبائلي",
+        "artist": { "name": "Music izuran" },
+        "preview": "https://radiodzair.net:8030/izuran?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/izur.png"
+        }
+      },
+      {
+        "title": "Radio jow rai  جو راي",
+        "artist": { "name": "Music Rai" },
+        "preview": "https://ice.creacast.com/jowradio-rai",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jowr.png"
+        }
+      },
+      {
+        "title": "Radio jow   جــو",
+        "artist": { "name": "Music All" },
+        "preview": "https://ice.creacast.com/jowradio",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/joww.png"
+        }
+      },
+      {
+        "title": "Radio jile fm جيل",
+        "artist": { "name": "Music Rai All" },
+        "preview": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jile.png"
+        }
+      },
+      {
+        "title": "Radio chaine 1 الأولى",
+        "artist": { "name": "public national channel" },
+        "preview": "https://webradio.tda.dz/Chaine1_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha1.png"
+        }
+      },
+      {
+        "title": "Radio chaine 2 الثانية",
+        "artist": { "name": "public national channel" },
+        "preview": "https://webradio.tda.dz/Chaine2_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha2.png"
+        }
+      },
+      {
+        "title": "Radio chaine 3 الثانية",
+        "artist": { "name": "public national channel" },
+        "preview": "https://webradio.tda.dz/Chaine3_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cha3.png"
+        }
+      },
+      {
+        "title": "Radio Internationale الدولية",
+        "artist": { "name": "International news channel" },
+        "preview": "https://webradio.tda.dz/Internationale_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/inte.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "https://webradio.tda.dz/Coran_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qran.png"
+        }
+      },
+      {
+        "title": "Radio culture الثقافية",
+        "artist": { "name": "Music culture art" },
+        "preview": "https://webradio.tda.dz/Culture_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cult.png"
+        }
+      },
+      {
+        "title": "Radio Bahdja البهجة",
+        "artist": { "name": "news music culture all" },
+        "preview": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/bahd.png"
+        }
+      },
+      {
+        "title": "Radio Africa Hits أفريكا",
+        "artist": { "name": "news music culture all" },
+        "preview": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/afri.png"
+        }
+      },
+      {
+        "title": "Radio hawana هوانا",
+        "artist": { "name": "All Music " },
+        "preview": "http://manager6.streamradio.fr:1980/stream/1/",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hawa.png"
+        }
+      },
+      {
+        "title": "Radio R أر",
+        "artist": { "name": "All Music " },
+        "preview": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/rrrr.png"
+        }
+      },
+      {
+        "title": "Radio hit هيت",
+        "artist": { "name": "All Music " },
+        "preview": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hitt.png"
+        }
+      },
+      {
+        "title": "Radio nogoum نجوم",
+        "artist": { "name": "All Music " },
+        "preview": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/nogo.png"
+        }
+      },
+      {
+        "title": "Radio beur بور",
+        "artist": { "name": "All Music " },
+        "preview": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/beur.png"
+        }
+      },
+      {
+        "title": "Radio bollywood بوليود",
+        "artist": { "name": "All Music " },
+        "preview": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/boll.png"
+        }
+      },
+      {
+        "title": "Radio Hits 1 هيتس",
+        "artist": { "name": "All Music " },
+        "preview": "https://radio7.pro-fhi.net/live/Hits1radio",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/hawa.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "http://s2.voscast.com:12312/;",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/cora.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "http://live.mp3quran.net:9956/",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/corr.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/coor.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qorr.png"
+        }
+      },
+      {
+        "title": "Radio Quoran القرآن الكريم",
+        "artist": { "name": "Quoran Karim القرآن الكريم" },
+        "preview": "http://listen.radio-coran.net:8000/live.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/qooo.png"
+        }
+      },
+      {
+        "title": "Radio adrar أدرار",
+        "artist": { "name": "01 local channel" },
+        "preview": "https://webradio.tda.dz/Adrar_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra01.png"
+        }
+      },
+      {
+        "title": "Radio Chlef الشلف",
+        "artist": { "name": "02 local channel" },
+        "preview": "https://webradio.tda.dz/Chlef_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra02.png"
+        }
+      },
+      {
+        "title": "Radio Laghouat الأغواط",
+        "artist": { "name": "03 local channel" },
+        "preview": "https://webradio.tda.dz/Laghouat_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra03.png"
+        }
+      },
+      {
+        "title": "Radio OumBouaghi أم البواقي",
+        "artist": { "name": "04 local channel" },
+        "preview": "https://webradio.tda.dz/OumBouaghi_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra04.png"
+        }
+      },
+      {
+        "title": "Radio Batna باتنة",
+        "artist": { "name": "05 local channel" },
+        "preview": "https://webradio.tda.dz/Batna_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra05.png"
+        }
+      },
+      {
+        "title": "Radio Bejaia بجاية",
+        "artist": { "name": "06 local channel" },
+        "preview": "https://webradio.tda.dz/Bejaia_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra06.png"
+        }
+      },
+      {
+        "title": "Radio Biskra بسكرة",
+        "artist": { "name": "07 local channel" },
+        "preview": "https://webradio.tda.dz/Biskra_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra07.png"
+        }
+      },
+      {
+        "title": "Radio Bechar بشار",
+        "artist": { "name": "08 local channel" },
+        "preview": "https://webradio.tda.dz/Bechar_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra08.png"
+        }
+      },
+      {
+        "title": "Radio Blida البليدة",
+        "artist": { "name": "09 local channel" },
+        "preview": "https://webradio.tda.dz/Blida_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra09.png"
+        }
+      },
+      {
+        "title": "Radio Bouira البويرة",
+        "artist": { "name": "10 local channel" },
+        "preview": "https://webradio.tda.dz/Bouira_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra10.png"
+        }
+      },
+      {
+        "title": "Radio Tamanrasset تمنراست",
+        "artist": { "name": "11 local channel" },
+        "preview": "https://webradio.tda.dz/Tamanrasset_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra11.png"
+        }
+      },
+      {
+        "title": "Radio Tebessa تبسة",
+        "artist": { "name": "12 local channel" },
+        "preview": "https://webradio.tda.dz/Tebessa_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra12.png"
+        }
+      },
+      {
+        "title": "Radio Tlemcen تلمسان",
+        "artist": { "name": "13 local channel" },
+        "preview": "https://webradio.tda.dz/Tlemcen_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra13.png"
+        }
+      },
+      {
+        "title": "Radio Tiaret تيارت",
+        "artist": { "name": "14 local channel" },
+        "preview": "https://webradio.tda.dz/Tiaret_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra14.png"
+        }
+      },
+      {
+        "title": "Radio TiziOuzou تيزي وزو",
+        "artist": { "name": "15 local channel" },
+        "preview": "https://webradio.tda.dz/TiziOuzou_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra15.png"
+        }
+      },
+      {
+        "title": "Radio dzair الجزائر",
+        "artist": { "name": "16 local channel" },
+        "preview": "https://webradio.tda.dz/ElBahdja_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra16.png"
+        }
+      },
+      {
+        "title": "Radio Djelfa الجلفة",
+        "artist": { "name": "17 local channel" },
+        "preview": "https://webradio.tda.dz/Djelfa_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra17.png"
+        }
+      },
+      {
+        "title": "Radio Jijel جيجل",
+        "artist": { "name": "18 local channel" },
+        "preview": "https://webradio.tda.dz/Jijel_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra18.png"
+        }
+      },
+      {
+        "title": "Radio Setif سطيف",
+        "artist": { "name": "19 local channel" },
+        "preview": "https://webradio.tda.dz/Setif_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra19.png"
+        }
+      },
+      {
+        "title": "Radio Saida سعيدة",
+        "artist": { "name": "20 local channel" },
+        "preview": "https://webradio.tda.dz/Saida_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra20.png"
+        }
+      },
+      {
+        "title": "Radio Skikda سكيكدة",
+        "artist": { "name": "21 local channel" },
+        "preview": "https://webradio.tda.dz/Skikda_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra21.png"
+        }
+      },
+      {
+        "title": "Radio SidiBelabes بلعباس",
+        "artist": { "name": "22 local channel" },
+        "preview": "https://webradio.tda.dz/SidiBelabes_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra22.png"
+        }
+      },
+      {
+        "title": "Radio Annaba عنابة",
+        "artist": { "name": "23 local channel" },
+        "preview": "https://webradio.tda.dz/Annaba_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra23.png"
+        }
+      },
+      {
+        "title": "Radio Guelma قالمة",
+        "artist": { "name": "24 local channel" },
+        "preview": "https://webradio.tda.dz/Guelma_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra24.png"
+        }
+      },
+      {
+        "title": "Radio Constantine قسنطينة",
+        "artist": { "name": "25 local channel" },
+        "preview": "https://webradio.tda.dz/Constantine_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra25.png"
+        }
+      },
+      {
+        "title": "Radio Medea المدية",
+        "artist": { "name": "26 local channel" },
+        "preview": "https://webradio.tda.dz/Medea_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra26.png"
+        }
+      },
+      {
+        "title": "Radio Mostaganem مستغانم",
+        "artist": { "name": "27 local channel" },
+        "preview": "https://webradio.tda.dz/Mostaganem_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra27.png"
+        }
+      },
+      {
+        "title": "Radio Msila المسيلة",
+        "artist": { "name": "28 local channel" },
+        "preview": "https://webradio.tda.dz/Msila_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra28.png"
+        }
+      },
+      {
+        "title": "Radio Mascara معسكر",
+        "artist": { "name": "29 local channel" },
+        "preview": "https://webradio.tda.dz/Mascara_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra29.png"
+        }
+      },
+      {
+        "title": "Radio Ouargla ورقلة",
+        "artist": { "name": "30 local channel" },
+        "preview": "https://webradio.tda.dz/Ouargla_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra30.png"
+        }
+      },
+      {
+        "title": "Radio Oran وهران",
+        "artist": { "name": "31 local channel" },
+        "preview": "https://webradio.tda.dz/Oran_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra31.png"
+        }
+      },
+      {
+        "title": "Radio ElBayedh البيض",
+        "artist": { "name": "32 local channel" },
+        "preview": "https://webradio.tda.dz/ElBayedh_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra32.png"
+        }
+      },
+      {
+        "title": "Radio Illizi إيليزي",
+        "artist": { "name": "33 local channel" },
+        "preview": "https://webradio.tda.dz/Illizi_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra33.png"
+        }
+      },
+      {
+        "title": "Radio BordjBouArreridj البرج",
+        "artist": { "name": "34 local channel" },
+        "preview": "https://webradio.tda.dz/BordjBouArreridj_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra34.png"
+        }
+      },
+      {
+        "title": "Radio Boumerdes بومرداس",
+        "artist": { "name": "35 local channel" },
+        "preview": "https://webradio.tda.dz/Boumerdes_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra35.png"
+        }
+      },
+      {
+        "title": "Radio Taref الطارف",
+        "artist": { "name": "36 local channel" },
+        "preview": "https://webradio.tda.dz/Taref_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra36.png"
+        }
+      },
+      {
+        "title": "Radio Tindouf تندوف",
+        "artist": { "name": "37 local channel" },
+        "preview": "https://webradio.tda.dz/Tindouf_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra37.png"
+        }
+      },
+      {
+        "title": "Radio Tissemssilt تسمسيلت",
+        "artist": { "name": "38 local channel" },
+        "preview": "https://webradio.tda.dz/Tissemssilt_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra38.png"
+        }
+      },
+      {
+        "title": "Radio ouedSouf واد سوف",
+        "artist": { "name": "39 local channel" },
+        "preview": "https://webradio.tda.dz/ouedSouf_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra39.png"
+        }
+      },
+      {
+        "title": "Radio Khenchela خنشلة",
+        "artist": { "name": "40 local channel" },
+        "preview": "https://webradio.tda.dz/Khenchela_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra40.png"
+        }
+      },
+      {
+        "title": "Radio SoukAhras سوق أهراس",
+        "artist": { "name": "41 local channel" },
+        "preview": "https://webradio.tda.dz/SoukAhras_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra41.png"
+        }
+      },
+      {
+        "title": "Radio Tipaza تبازة",
+        "artist": { "name": "42 local channel" },
+        "preview": "https://webradio.tda.dz/Tipaza_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra42.png"
+        }
+      },
+      {
+        "title": "Radio Mila ميلة",
+        "artist": { "name": "43 local channel" },
+        "preview": "https://webradio.tda.dz/Mila_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra43.png"
+        }
+      },
+      {
+        "title": "Radio AinDefla عين الدفلى",
+        "artist": { "name": "44 local channel" },
+        "preview": "https://webradio.tda.dz/AinDefla_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra44.png"
+        }
+      },
+      {
+        "title": "Radio Naama النعامة",
+        "artist": { "name": "45 local channel" },
+        "preview": "https://webradio.tda.dz/Naama_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra45.png"
+        }
+      },
+      {
+        "title": "Radio Timouchent تموشنت",
+        "artist": { "name": "46 local channel" },
+        "preview": "https://webradio.tda.dz/AinTimouchent_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra46.png"
+        }
+      },
+      {
+        "title": "Radio Ghardaia غرداية",
+        "artist": { "name": "47 local channel" },
+        "preview": "https://webradio.tda.dz/Ghardaia_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra47.png"
+        }
+      },
+      {
+        "title": "Radio Relizan غليزان",
+        "artist": { "name": "48 local channel" },
+        "preview": "https://webradio.tda.dz/Relizan_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/ra48.png"
+        }
       }
     ]
   }
